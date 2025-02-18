@@ -1,6 +1,8 @@
-ID,Name,Age,Marks
-1,Alice,20,85
-2,Bob,21,90
-3,Charlie,22,88
-4,David,20,92
-5,Eve,21,87
+ID,Name,Age,Department,CGPA
+101,John Doe,21,IT,8.5
+102,Jane Smith,22,HR,7.9
+103,Mike Johnson,20,Finance,8.2
+104,Emily Davis,23,Marketing,7.5
+105,Alice Brown,22,IT,9.0
+104,Emily Davis,23,Marketing,7.5
+105,Alice Brown,22,IT,9.0
