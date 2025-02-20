@@ -1,0 +1,44 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Prakash",
+        "department": "SDE",
+        "salary": 28700
+    },
+    {
+        "employee_id": 102,
+        "name": "Deepansh",
+        "department": "IT",
+        "salary": 22000
+    },
+    {
+        "employee_id": 103,
+        "name": "Anubhav",
+        "department": "Sweeper",
+        "salary": 30000
+    },
+    {
+        "employee_id": 104,
+        "name": "Mayank",
+        "department": "PM",
+        "salary": 29700
+    },
+    {
+        "employee_id": 105,
+        "name": "Manish",
+        "department": "Analyst",
+        "salary": 28100
+    },
+    {
+        "employee_id": 106,
+        "name": "Furquan",
+        "department": "Trainee",
+        "salary": 30000
+    },
+    {
+        "employee_id": 107,
+        "name": "Vivek",
+        "department": "SeniorAnalyst",
+        "salary": 35000
+    }
+]

@@ -1,0 +1,21 @@
+
+[
+  {
+    "name": "Om Prakash",
+    "age": 20,
+    "email": "prakash@example.com",
+    "subjects": ["SE", "Oops"]
+  },
+  {
+    "name": "Prakash",
+    "age": 22,
+    "email": "om@example.com",
+    "subjects": ["CN", "OS"]
+  },
+  {
+    "name": "Kuldeep",
+    "age": 23,
+    "email": "prakash@example.com",
+    "subjects": ["ML", "DSA"]
+  }
+]
